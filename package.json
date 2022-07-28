@@ -1,7 +1,7 @@
 {
   "name": "icepops-pets-api",
   "version": "1.0.0",
-  "description": "Auth boilerplate for mongoose express using token auth",
+  "description": "A fun lil API server regarding pets",
   "main": "server.js",
   "scripts": {
     "start": "nodemon server.js",
